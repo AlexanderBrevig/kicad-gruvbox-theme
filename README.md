@@ -24,3 +24,9 @@ You can simply `cd` your way there and get `Gruvbox.json` in there somehow.
 
 I have not really landed on any convention as for when to use which color.
 Feel free to make suggestions or PR, I will probably merge them if you explain the thought behind your change.
+
+## Thanks
+
+https://www.kicad.org/ for the amazing tool
+https://github.com/morhetz/gruvbox for the theme
+https://github.com/jdinhify/vscode-theme-gruvbox for the icon
