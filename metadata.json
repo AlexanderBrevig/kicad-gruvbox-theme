@@ -1,0 +1,32 @@
+{
+    "$schema": "https://go.kicad.org/pcm/schemas/v1",
+    "name": "Gruvbox",
+    "description": "A KiCAD adoptation of the Gruvbox theme",
+    "description_full": "Gruvbox is a popular theme. Gruvbox all the things!",
+    "identifier": "com.github.alexanderbrevig.kicad-gruvbox-theme",
+    "type": "colortheme",
+    "author": {
+        "name": "Alexander Brevig",
+        "contact": {
+            "web": "https://alexanderbrevig.com"
+        }
+    },
+    "maintainer": {
+        "name": "Alexander Brevig",
+        "contact": {
+            "web": "https://alexanderbrevig.com"
+        }
+    },
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://github.com/alexanderbrevig/kicad-gruvbox-theme"
+    },
+    "versions": [
+        {
+            "version": "1.1",
+            "status": "stable",
+            "kicad_version": "6",
+            "download_url": "https://github.com/AlexanderBrevig/kicad-gruvbox-theme/releases/download/v1.0/Gruvbox_v1.1.zip"
+        }
+    ]
+}
