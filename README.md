@@ -1,4 +1,8 @@
-![Gruvbox theme](https://raw.githubusercontent.com/alexanderbrevig/kicad-gruvbox-theme/main/kicad-gruvbox-theme.png) 
+EESCHEMA         |  PCBNEW
+:-------------------------:|:-------------------------:
+![Gruvbox theme](https://raw.githubusercontent.com/alexanderbrevig/kicad-gruvbox-theme/main/eeschema.png)  |  ![Gruvbox theme](https://raw.githubusercontent.com/alexanderbrevig/kicad-gruvbox-theme/main/pcbnew.png) 
+
+
 
 # kicad-gruvbox-theme
 Gruvbox for KiCAD - THE FUTURE IS HERE
