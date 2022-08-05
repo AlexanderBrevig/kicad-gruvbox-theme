@@ -22,7 +22,7 @@ This is my KiCAD daily-driver theme.
 You can simply `cd` your way there and get `Gruvbox.json` in there somehow. 
 
     cd ~/.config/kicad/6.0/colors
-    curl https://raw.githubusercontent.com/alexanderbrevig/kicad-gruvbox-theme/main/Gruvbox.json > Gruvbox.json
+    curl https://raw.githubusercontent.com/alexanderbrevig/kicad-gruvbox-theme/main/colors/Gruvbox.json > Gruvbox.json
     
 ## Contribute
 
